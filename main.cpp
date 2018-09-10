@@ -43,11 +43,3 @@ int main()
     }
 
 }
-
-//Ok so bacically make one line just XXXXXXXXXXXXXXXXX up to oh 15 characters?
-//Make sure the user knows the name has to be less than or equal to 13 characters
-//Hell if I know hwat to do if the name is odd characters
-//Then you have a function that sees how many characters are in a string
-//Then you have an if else statement of death that decides spacing based on how many characters are in the name
-//Then you have another XXXXXXXXXXXXXXXXX
-
